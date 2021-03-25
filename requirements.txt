@@ -1,0 +1,9 @@
+Flask
+pillow
+numpy
+opencv-python-headless==4.2.0.32
+gunicorn
+Jinja2
+MarkupSafe
+Werkzeug
+pandas
