@@ -1,9 +1,0 @@
-Flask
-pillow
-numpy
-cv2
-gunicorn
-Jinja2
-MarkupSafe
-Werkzeug
-pandas
